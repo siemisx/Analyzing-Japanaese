@@ -13,7 +13,7 @@ results: .txt files of tokenization and pos deiscrepancies
 
 ## Kyoto Web Document Leads Corpus
 The KWDLC was used for evaluation.<br />
-It consists of roughlz 5,000 documents of the first lead three sentences of web documents. <br />
+It consists of roughly 5,000 documents of the first lead three sentences of web documents. <br />
 It is available here: https://github.com/ku-nlp/KWDLC/tree/master
 
 | # of documents | # of sentences | # of morphemes | # of named entities | # of predicates | # of coreferring mentions |
