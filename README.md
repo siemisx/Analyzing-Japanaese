@@ -1,7 +1,11 @@
 # Analyzing-Japanaese 
 
 ## Project Overview
-Analyzing-Japanese is designed to evaluate Japanese morphological analyzers such as Nagisa, SudachiPy, and Fugashi. I have compared and evaluated word segmentation accuracy, efficiency, and part-of-speech tagging performance using the Kyoto Web Development Leads Corpus.
+Analyzing-Japanese is designed to evaluate Japanese morphological analyzers such as Nagisa, SudachiPy, and Fugashi. I have compared and evaluated word segmentation accuracy, efficiency, and part-of-speech tagging performance using the Kyoto Web Development Leads Corpus. <br />
+<br />
+- Nagisa: An open-source tool utilizing recurrent neural networks, developed with a focus on user-friendliness.<br />
+- Sudachi: A system based on the UniDic dictionary, offering multi-granular tokenization information. <br />
+- Fugashi: A Python wrapper with Cython components for the widely used MeCab model, utilizing Conditional Random Fields.
 
 ## Structure
 comparison: .py files for comparing morphological analyzers <br />
