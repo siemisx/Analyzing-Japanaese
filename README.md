@@ -1,4 +1,4 @@
-# Analyzing-Japanaese 
+# Analyzing-Japanese 
 
 ## Project Overview
 Analyzing-Japanese is designed to evaluate Japanese morphological analyzers such as Nagisa, SudachiPy, and Fugashi. I have compared and evaluated word segmentation accuracy, efficiency, and part-of-speech tagging performance using the Kyoto Web Document Leads Corpus. <br />
@@ -9,7 +9,7 @@ Analyzing-Japanese is designed to evaluate Japanese morphological analyzers such
 
 ## Structure
 comparison: .py files for comparing morphological analyzers <br />
-results: .txt files of tokenization and pos deiscrepancies
+results: .txt files of tokenization and pos discrepencies, .pkl dicts used for evaluation
 
 ## Kyoto Web Document Leads Corpus
 The KWDLC was used for evaluation.<br />
