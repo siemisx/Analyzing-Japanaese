@@ -8,7 +8,7 @@ Analyzing-Japanese is designed to evaluate Japanese morphological analyzers such
 - Fugashi: A Python wrapper with Cython components for the widely used MeCab model, utilizing Conditional Random Fields.
 
 ## Structure
-comparison: .py files for comparing morphological analyzers <br />
+comparison: .py files for comparing morphological analyzers, processing the gold corpus, and the evaluation <br />
 results: .txt files of tokenization and pos discrepencies, .pkl dicts used for evaluation
 
 ## Kyoto Web Document Leads Corpus
